@@ -1,7 +1,9 @@
 vim-colemak
 ===========
 
-Colemak key mappings for Vim. Trimmed and modified version of [Shai Coleman's configuration](http://colemak.com/pub/vim/colemak.vim).
+Colemak key mappings for Vim.
+
+Only change made is to keep Navigation from old hjkl to neio keys.
 
 Install
 -------
